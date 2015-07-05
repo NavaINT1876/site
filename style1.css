@@ -11,6 +11,6 @@ body {
 	animation:spin 2s linear 1s infinite alernate;
 }
 @-webkit-keyframes spin{
-from {transform:rotate(0deg);}
+from {transform:rotate(0deg);}afd
 to {transform:rotate(360deg);}
 }
